@@ -1,0 +1,23 @@
+# Ignore virtual environment
+autotrader/
+venv/
+env/
+
+# Ignore Python cache and build files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore sensitive data
+.env
+*.key
+*.pem
