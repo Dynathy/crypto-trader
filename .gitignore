@@ -1,5 +1,5 @@
 # Ignore virtual environment
-autotrader/
+crypto-trader/
 venv/
 env/
 
@@ -19,5 +19,6 @@ __pycache__/
 
 # Ignore sensitive data
 .env
+.env.prod
 *.key
 *.pem
